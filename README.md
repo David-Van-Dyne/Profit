@@ -5,4 +5,4 @@
 
 - Over time I will include more complexity to the overall page layout, including potential labor costs, machine costs, shipping and so on.
 
-- This is all for my own personal growth within the programming world
+- This is all for my own personal growth within the programming world, as I'm starting out as an absolute newbie without any CS background, I just want to learn! 
