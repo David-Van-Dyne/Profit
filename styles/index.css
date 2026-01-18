@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0c0d54;
+    color: #b6b6b8;
+    padding: 20px;
+}
+
+.top-bar {
+    width: 100%;
+    height: 60px;
+    background-color: #22428c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px; 
+}
+
+.left-wrapper {
+  width: 50%;
+  border: 1px solid #b6b6b8;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.right-wrapper {
+  width: 50%;
+  border: 1px solid #b6b6b8;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#profit-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+} 
